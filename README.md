@@ -93,7 +93,7 @@ Le travail combine :
 ---
 
 
-## Intérêt pour les recruteurs
+## Conclusion:
 - Ce projet illustre une **maîtrise solide en simulation numérique et analyse mathématique**.  
 - Démonstration de compétences en **méthodes numériques pour PDE**, modélisation et calcul scientifique.  
 - Capacité à traiter des systèmes difficiles (non strictement hyperboliques, solutions singulières).  
